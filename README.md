@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+étudiant en but info
 <!--
 **fan2kendrick/fan2kendrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
